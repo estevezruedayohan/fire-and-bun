@@ -1,1 +1,7 @@
-// Write all the code here
+export default function Header() {
+  return (
+    <>
+      <div>This is the Header</div>
+    </>
+  );
+}

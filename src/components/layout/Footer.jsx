@@ -1,1 +1,7 @@
-// Write all the code here
+export default function Footer() {
+  return (
+    <>
+      <div>This is the Footer</div>
+    </>
+  );
+}
